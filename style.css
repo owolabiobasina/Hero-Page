@@ -1,0 +1,54 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#background_image {
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(./image/pexels-negativespace-34140.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-bottom: 115px;
+}
+
+.top {
+    font-family: 'Times New Roman', Times, serif;
+    color: bisque;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 50px;
+    margin-top: 150px;
+}
+
+p {
+    color: bisque;
+    font-size: 20px;
+    text-align: center; 
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+i {
+   color: bisque;
+    font-size: 30px;
+    text-align: center; 
+    margin-top: 50px; 
+    font-family: monospace;
+    margin-left: 500px;
+    font-weight: 700;
+}
+
+.btn {
+    margin-top: 50px;
+    margin-left: 450px;
+    height: 50px;
+    border: 2px;
+    border-radius: 20px;
+    background-color: wheat;
+    color: black;
+    width: 350px;
+    padding: 10px;
+}
+
